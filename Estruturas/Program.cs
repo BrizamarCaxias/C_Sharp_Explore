@@ -4,6 +4,7 @@ using Estruturas;
 
 Console.WriteLine("Hello, World!");
 Point p;
+p = null;
 p.X=10;
 p.Y=50;
 Console.WriteLine(p.ToString());

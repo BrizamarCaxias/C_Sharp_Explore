@@ -1,0 +1,15 @@
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/bin/Debug/net7.0/Vazio
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/bin/Debug/net7.0/Vazio.deps.json
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/bin/Debug/net7.0/Vazio.runtimeconfig.json
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/bin/Debug/net7.0/Vazio.dll
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/bin/Debug/net7.0/Vazio.pdb
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.csproj.AssemblyReference.cache
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.GeneratedMSBuildEditorConfig.editorconfig
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.AssemblyInfoInputs.cache
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.AssemblyInfo.cs
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.csproj.CoreCompileInputs.cache
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.dll
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/refint/Vazio.dll
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.pdb
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/Vazio.genruntimeconfig.cache
+/home/brizamar/Documents/PROJETOS/C_SHARP/C_Sharp_Explore/Vazio/obj/Debug/net7.0/ref/Vazio.dll
